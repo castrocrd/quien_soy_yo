@@ -6,5 +6,5 @@ Hola soy **Fabián Gil**
 
 
 
-Soy *estadístico*
+Soy *estadístico* y Bioestadístico
 
